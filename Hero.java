@@ -2,6 +2,7 @@ package code1_1;
 
 public class Hero {
 	//カプセル化　直接外から触れないように
+	//こんにちは
 	private String name;
 	private int hp,mp;
 	
