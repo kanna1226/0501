@@ -7,6 +7,7 @@ import java.sql.SQLException;
 
 public class Main {
 	public static void main(String[] args) {
+		//テストです
 		// STEP 0: 事前準備（JAR配置を含む）
 		try {
 			Class.forName("org.h2.Driver");
